@@ -1,7 +1,7 @@
 # fuzzy-equalizer
 Reference MATLAB implementation of a fuzzy inference based audio equalizer.
 
-[English README](README_en.md)
+[English README](README.md)
 
 # ファジィ制御オーディオイコライザー
 ## MATLABリファレンス実装
