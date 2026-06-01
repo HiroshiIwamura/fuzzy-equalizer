@@ -2,7 +2,7 @@
 
 Reference MATLAB implementation of a fuzzy-controlled audio equalizer.
 
-[日本語版 README](README.md)
+[日本語版 README](README_ja.md)
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=HiroshiIwamura/fuzzy-equalizer&file=FEQU_v2.mlapp)
 
